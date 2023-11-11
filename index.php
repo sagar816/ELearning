@@ -16,7 +16,7 @@
 </head>
 <body>
 <!-- Start Navigation -->
-<nav class="navbar navbar-expand-sm bg-body-tertiary">
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href=index.php">iSchool</a>
     <span class="navbar-text">Learn and Implement</span>
@@ -24,16 +24,16 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <ul class="navbar-nav">
-        <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Courses</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Payment</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">My Profile</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Logout</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Login</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">SignUp</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Feedback</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+      <ul class="navbar-nav custom-nav">
+        <li class="nav-item custom-nav-item"><a href="index.php" class="nav-link">Home</a></li>
+        <li class="nav-item custom-nav-item"><a href="#" class="nav-link">Courses</a></li>
+        <li class="nav-item custom-nav-item"><a href="#" class="nav-link">Payment</a></li>
+        <li class="nav-item custom-nav-item"><a href="#" class="nav-link">My Profile</a></li>
+        <li class="nav-item custom-nav-item"><a href="#" class="nav-link">Logout</a></li>
+        <li class="nav-item custom-nav-item"><a href="#" class="nav-link">Login</a></li>
+        <li class="nav-item custom-nav-item"><a href="#" class="nav-link">SignUp</a></li>
+        <li class="nav-item custom-nav-item"><a href="#" class="nav-link">Feedback</a></li>
+        <li class="nav-item custom-nav-item"><a href="#" class="nav-link">Contact</a></li>
       </ul>
     </div>
   </div>
